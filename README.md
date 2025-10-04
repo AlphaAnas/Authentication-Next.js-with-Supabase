@@ -8,7 +8,7 @@ This repository provides a clear, step-by-step implementation of basic authentic
 - **Protected Routes**: Restricts access to authenticated users only.
 - **Server-Side Data Fetching**:
   - [Login Page](app/login/page.tsx): Demonstrates how to fetch user data on the server during login.
-  - [Private Page](private/page.tsx): Shows server-side authentication and data fetching for protected content.
+  - [Private Page](app/private/page.tsx): Shows server-side authentication and data fetching for protected content.
 
 ## Coming Soon
 
